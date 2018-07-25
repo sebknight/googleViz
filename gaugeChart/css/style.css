@@ -1,0 +1,35 @@
+body {
+    font-family: "Helvetica", sans-serif;
+    font-size: 24px;
+}
+
+input {
+    /* font-family: "Helvetica", sans-serif; */
+    font-size: 36px;
+
+}
+
+
+#chart-container-one{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+   }
+
+#chart-container-two{
+width: 1000px;
+height: 400px;
+margin: 0 auto;
+}
+
+#button-container{
+    width: 1000px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+
+/* #input-container{
+    width: 1000px;
+    margin: 0 auto;
+} */
