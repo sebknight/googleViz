@@ -1,0 +1,17 @@
+#chart-container {
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 100px;
+    background-color: #81CFE0;    
+}
+
+body {
+    background-color: #81CFE0;
+}
+h1, h2 {
+    padding-left: 300px;
+    margin: 0 auto;
+    color: #013234;
+    font-family: "Helvetica", sans-serif;
+}
